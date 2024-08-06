@@ -9,3 +9,4 @@ ghcr.io/wg-easy/wg-easy
 vaultwarden/server
 cym1102/nginxwebui:latest
 gitea/gitea:latest
+photoprism/photoprism:latest
