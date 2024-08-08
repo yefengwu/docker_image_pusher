@@ -10,3 +10,4 @@ vaultwarden/server
 cym1102/nginxwebui:latest
 gitea/gitea:latest
 photoprism/photoprism:latest
+jellyfin/jellyfin
