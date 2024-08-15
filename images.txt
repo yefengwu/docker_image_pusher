@@ -12,3 +12,4 @@ gitea/gitea:latest
 photoprism/photoprism:latest
 jellyfin/jellyfin
 postgres:15.4
+mysql:8.1.0
