@@ -5,7 +5,7 @@ nginx
 # --platform=linux/arm64 xiaoyaliu/alist
 xhofe/alist:latest
 neosmemo/memos:0.22.3
-neosmemo/memos:0.22.4
+neosmemo/memos:0.22.5
 ghcr.io/wg-easy/wg-easy
 vaultwarden/server
 cym1102/nginxwebui:latest
