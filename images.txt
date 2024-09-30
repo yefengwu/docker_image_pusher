@@ -16,3 +16,4 @@ postgres:15.4
 mysql:8.1.0
 couchdb
 hslr/sun-panel
+navidrome
