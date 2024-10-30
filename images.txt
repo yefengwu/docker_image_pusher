@@ -17,3 +17,4 @@ mysql:8.1.0
 couchdb
 hslr/sun-panel
 navidrome
+hlohaus789/g4f:latest
