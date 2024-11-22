@@ -18,3 +18,5 @@ couchdb
 hslr/sun-panel
 navidrome
 hlohaus789/g4f:latest
+ttionya/vaultwarden-backup:latest
+vaultwarden/server:latest
