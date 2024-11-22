@@ -16,7 +16,7 @@ postgres:15.4
 mysql:8.1.0
 couchdb
 hslr/sun-panel
-navidrome
+deluan/navidrome:latest
 hlohaus789/g4f:latest
 ttionya/vaultwarden-backup:latest
 vaultwarden/server:latest
